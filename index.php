@@ -20,6 +20,8 @@ var_dump((int)0 === (int)'hello, world'); // Почему true?
 $a = 1;
 $b = 2;
 
+echo "a=$a <p></p> b=$b <p></p> ";
+
 $c = "Variable a ,is now";
 $d = "Variable b ,is now";
 
