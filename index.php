@@ -1,3 +1,5 @@
 <?php
-echo 'Hello world';
+
+$myName="Denis";
+echo "Hello, $myName";
 ?>
