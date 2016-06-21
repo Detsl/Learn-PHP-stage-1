@@ -209,6 +209,7 @@ function countdown($n){
 
 }
 countdown(50);
+?>
 
 <?php
 
